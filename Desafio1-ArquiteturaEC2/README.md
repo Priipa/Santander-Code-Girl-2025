@@ -30,3 +30,9 @@ O objetivo é criar uma infraestrutura de baixo custo, segura e escalável para 
 - [Amazon EBS](https://aws.amazon.com/ebs/) – Armazenamento em blocos para a instância EC2.
 - [Amazon S3](https://aws.amazon.com/s3/) – Armazenamento de objetos para mídias.
 - [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) – Distribuição de tráfego para maior disponibilidade.
+
+### Autora
+Giovanna priscila Nascimento
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannapriscilanascimento/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pripa.diflen@gmail.com)
